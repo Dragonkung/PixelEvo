@@ -142,5 +142,4 @@ Dirty build is recommended for faster builds (unless no major change is done).
 - [Lineage OS](https://lineageosroms.com/guacamoleb/)
 - [Pixel Experience](https://wiki.pixelexperience.org/devices/guacamoleb/build/)
 - [Akhil Narang](https://github.com/akhilnarang)
-- [Nusantara Progect]
-(https://nusantararom.org/)
+- [Nusantara Project](https://nusantararom.org/)
